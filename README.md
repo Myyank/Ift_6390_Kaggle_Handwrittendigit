@@ -6,7 +6,7 @@ The Notebook Kaggle_Competition-LR_Scratch requires numpy, pandas and matplotlib
 
 The Notebook Kaggle_Competiton_CNN requires numpy, pandas, matplotlib, seaborn, keras and sklearn libraries to run.
 
-The train data(train.csv) and test data(test.csv) must be uploaded should be present in same directory as notebook files.
+The train data(train.csv) , train Result(train_result.csv) and test data(test.csv) must be uploaded should be present in same directory as notebook files.
 
 After this you can run this Jupyter notebook.
 
